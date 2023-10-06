@@ -12,3 +12,4 @@
 ## Beurten
 ik raad a
 ik raad e
+ik raad eten
