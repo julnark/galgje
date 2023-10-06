@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|7|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/4.png)
 
 ## Beurten
 ik raad a
