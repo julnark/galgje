@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|m | b| a| | | |
+|m | b| a| p| p| |
 
 |1|2|3|4|5|6|7|
 
